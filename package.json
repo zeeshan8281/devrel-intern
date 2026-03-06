@@ -1,0 +1,22 @@
+{
+  "name": "devrel-intern",
+  "version": "1.0.0",
+  "description": "A multi-agent DevRel team for Claude Code — content, community, research, advocacy, and analytics.",
+  "keywords": [
+    "claude-code",
+    "claude-skill",
+    "devrel",
+    "developer-relations",
+    "developer-advocacy",
+    "content",
+    "community"
+  ],
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "references/"
+  ],
+  "engines": {
+    "node": ">=18"
+  }
+}
