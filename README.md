@@ -1,4 +1,4 @@
-# 🔥 devrel-intern
+# devrel-intern
 
 > **You just hired a full DevRel team. They live in your terminal. They never sleep. They don't ask for equity.**
 
@@ -10,7 +10,7 @@ Type `/devrel-intern` in Claude Code. Watch five specialists show up and get to 
 
 ---
 
-## What the hell is this?
+## What is this?
 
 You know how great DevRel teams have a content writer who actually understands APIs, a community manager who doesn't sound like a corporate bot, a researcher who tracks what competitors are doing, a developer advocate who builds real demos, and an analyst who doesn't just make up numbers?
 
